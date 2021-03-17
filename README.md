@@ -71,11 +71,9 @@ data
 supervised learn part
 
 ## Final Considerations and acknowledgments <a name="considerations"></a>
-
-Some articles that I have to study to try to improve my submission:
-- https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/ 
-- https://www.kaggle.com/tilii7/hyperparameter-grid-search-with-xgboost 
-- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+To acomplish those result, I've read many tutorials, articles and documentation 
+from https://machinelearningmastery.com, https://www.kaggle.com and of 
+course from https://stackoverflow.com to get insights.
 
 Thanks to Bertelsmann/Arvato for kindly make the data of a real problem 
 available at Udacity and for all Udacity professors and mentors.
